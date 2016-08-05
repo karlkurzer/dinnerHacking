@@ -14,3 +14,12 @@ open the terminal and do:
 
 open the browser of your choice and navigate to localhost:3000
 
+###Challenges
+* prettify the front end
+* develop some ui
+* back end api calls
+
+possible api sources:
+* https://www.reddit.com/dev/api
+* https://developer.spotify.com/web-api/endpoint-reference/
+* https://developers.google.com/maps/

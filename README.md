@@ -8,7 +8,7 @@ Install git from here,  use the 2.9+ stable release (https://git-scm.com/downloa
 
 open the terminal and do:
 * ``npm install bower -g``
-* ``npm install```
+* ``npm install``
 * ``bower install``
 * ``node server.js``
 
